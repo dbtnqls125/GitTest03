@@ -14,8 +14,8 @@ class ViewController: UIViewController {
             super.viewDidLoad()
             // Do any additional setup after loading the view, typically from a nib.
             
-            // UIView의 background Color를 blue로 변경
-            self.view.backgroundColor = UIColor.blue
+            // UIView의 background Color를 gray로 변경
+            self.view.backgroundColor = UIColor.gray
       }
 
 }
